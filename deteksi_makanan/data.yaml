@@ -1,0 +1,11 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: chocho
+  1: dilan
+  2: indomie
+  3: mie sedap
+  4: momotaro
+  5: top
